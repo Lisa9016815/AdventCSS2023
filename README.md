@@ -1,4 +1,4 @@
-# adventcss2023-1
+# AdventCSS2023-1
 Advent of CSS - Challenge n. 1
 
 description of the challenge: 
